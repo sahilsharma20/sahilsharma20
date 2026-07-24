@@ -42,9 +42,111 @@ sahil@github:~$
   
 ## 🚀 Featured Projects
 
-- 🚀 **ClaimGuard** – AI-powered Insurance Fraud Detection System
-- 🤖 **CCTV Activity Recognition** – Deep Learning-based Human Activity Recognition
-- 📝 **Next Word Prediction** – LSTM-based Language Model
+<p align="center">
+  <i>Some of the projects I've built in Machine Learning, Deep Learning, Computer Vision, and Data Science.</i>
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/claimguard-fraud-project">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=claimguard-fraud-project&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🛡️ ClaimGuard
+
+AI-powered Insurance Fraud Detection System
+
+**Highlights**
+- 🚨 Fraud Detection using Machine Learning
+- 📊 Risk Severity Analysis
+- 📈 Interactive Dashboard
+- ⚡ Real-time Prediction
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit`
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/CCTV_Activity_Recognition_Mini_Project">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=CCTV_Activity_Recognition_Mini_Project&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🎥 CCTV Activity Recognition
+
+CNN-based Human Activity Recognition
+
+**Highlights**
+
+- 🚶 Walking Detection
+- 🏃 Running Detection
+- 👊 Fighting Detection
+- 🪑 Sitting Detection
+
+**Tech Stack**
+
+`TensorFlow` `OpenCV` `CNN` `Python`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/Remote-Controlled-Surveillance-Vehicle">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=Remote-Controlled-Surveillance-Vehicle&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🤖 Remote Controlled Surveillance Vehicle
+
+IoT & Computer Vision based Surveillance Robot
+
+**Highlights**
+
+- 📹 Live Camera Feed
+- 🎮 Remote Navigation
+- 🤖 Obstacle Monitoring
+- 🔍 Real-time Surveillance
+
+**Tech Stack**
+
+`Python` `OpenCV` `Arduino` `IoT`
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/nyc-taxi-fare-prediction-big-data">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=nyc-taxi-fare-prediction-big-data&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🚕 NYC Taxi Fare Prediction
+
+Big Data Analytics & Fare Prediction
+
+**Highlights**
+
+- 📦 PySpark Processing
+- 📈 Feature Engineering
+- 🚖 Fare Prediction
+- 📊 Large-scale Dataset Analysis
+
+**Tech Stack**
+
+`PySpark` `Python` `Pandas` `Machine Learning`
+
+</td>
+
+</tr>
+
+</table>
 
 ## 📊 GitHub Statistics
 
