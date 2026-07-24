@@ -4,6 +4,30 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=true&width=900&height=60&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Enthusiast;Building+GenAI+Projects;OpenCV+%26+Computer+Vision;Python+Developer;Open+to+AI+Opportunities;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
+## 💻 Terminal
+
+```text
+███████╗ █████╗ ██╗  ██╗██╗██╗     
+██╔════╝██╔══██╗██║  ██║██║██║     
+███████╗███████║███████║██║██║     
+╚════██║██╔══██║██╔══██║██║██║     
+███████║██║  ██║██║  ██║██║███████╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+
+
+
+──────────────────────────────
+
+👤 Name        : Sahil Sharma
+🎓 Degree      : B.Tech CSE
+💼 Role        : AI/ML Engineer
+🧠 Learning    : LLM • RAG • LangChain
+💻 Languages   : Python • SQL • C++
+⚙️ Frameworks : TensorFlow • OpenCV • Flask
+🛠 Tools       : Git • VS Code • Streamlit
+📍 Location    : India
+```
+
 
 # Hi 👋
 
