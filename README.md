@@ -7,23 +7,21 @@
 ## 💻 Terminal
 
 ```text
-███████╗ █████╗ ██╗  ██╗██╗██╗     
-██╔════╝██╔══██╗██║  ██║██║██║     
-███████╗███████║███████║██║██║     
-╚════██║██╔══██║██╔══██║██║██║     
-███████║██║  ██║██║  ██║██║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-
-
-
+sahil@github:~$
+          
+ _____ _____ _____ _____ __    
+|   __|  _  |  |  |     |  |   
+|__   |     |     |-   -|  |__ 
+|_____|__|__|__|__|_____|_____|
+                               
 ──────────────────────────────
 
 👤 Name        : Sahil Sharma
 🎓 Degree      : B.Tech CSE
 💼 Role        : AI/ML Engineer
-🧠 Learning    : LLM • RAG • LangChain
+📚 Learning    : LLM • RAG • LangChain
 💻 Languages   : Python • SQL • C++
-⚙️ Frameworks : TensorFlow • OpenCV • Flask
+⚙️ Frameworks  : TensorFlow • OpenCV • Flask
 🛠 Tools       : Git • VS Code • Streamlit
 📍 Location    : India
 ```
@@ -35,9 +33,11 @@ I'm Sahil Sharma.
 
 ## About Me
 
-- AI Enthusiast
-- Machine Learning
-- Deep Learning
+- 🎓 B.Tech CSE graduated from AICE, Jaipur
+- 🤖 Passionate about AI, ML, Deep Learning & Generative AI
+- 💡 Building practical AI applications
+- 🌱 Currently learning LLMs, RAG & LangChain
+- 📫 Open to AI/ML internship and fresher opportunities
 
 ## Projects
 
