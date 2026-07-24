@@ -74,3 +74,45 @@ sahil@github:~$
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilsharma20&theme=tokyo-night&hide_border=true" />
 </p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahilsharma02">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/sahilsharma20">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ LangChain & AI Agents
+- 🎯 Fine-tuning (LoRA / PEFT)
+- ☁️ MLflow & MLOps
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahilsharma20&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+## 💬 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
