@@ -28,7 +28,7 @@ sahil@github:~$
 
 ## About Me
 
-- 🎓 B.Tech CSE graduated from AICE, Jaipur
+- 🎓 B.Tech in Computer Science & Engineering (2022–2026)
 - 🤖 Passionate about AI, ML, Deep Learning & Generative AI
 - 💡 Building end-to-end AI & Machine Learning applications
 - 🌱 Currently learning LLMs, RAG & LangChain
@@ -36,7 +36,7 @@ sahil@github:~$
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,mysql,sqlite,linux,html,css,streamlit&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,mysql,sqlite,linux,html,css,streamlit&perline=6" />
 </p>
 
   
@@ -45,3 +45,14 @@ sahil@github:~$
 - 🚀 **ClaimGuard** – AI-powered Insurance Fraud Detection System
 - 🤖 **CCTV Activity Recognition** – Deep Learning-based Human Activity Recognition
 - 📝 **Next Word Prediction** – LSTM-based Language Model
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilsharma20&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsharma20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahilsharma20&theme=tokyonight&hide_border=true"/>
+</p>
