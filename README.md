@@ -36,7 +36,7 @@ sahil@github:~$
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,mysql,sqlite,linux,html,css,streamlit&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,mysql,sqlite,linux,html,css,streamlit&perline=9" />
 </p>
 
   
