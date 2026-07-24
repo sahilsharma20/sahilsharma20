@@ -40,13 +40,15 @@ sahil@github:~$
 </p>
 
   
-## 🚀 Featured Projects
+
+# 🚀 Featured Projects
 
 <p align="center">
-  <i>Some of the projects I've built in Machine Learning, Deep Learning, Computer Vision, and Data Science.</i>
+<i>Building AI-powered applications in Machine Learning, Deep Learning, Computer Vision, Robotics, and Big Data.</i>
 </p>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -57,15 +59,9 @@ sahil@github:~$
 
 ### 🛡️ ClaimGuard
 
-AI-powered Insurance Fraud Detection System
+AI-powered insurance fraud detection system that predicts fraudulent claims using Machine Learning and XGBoost. Features risk severity analysis, interactive visualizations, and a Streamlit web application for real-time fraud prediction.
 
-**Highlights**
-- 🚨 Fraud Detection using Machine Learning
-- 📊 Risk Severity Analysis
-- 📈 Interactive Dashboard
-- ⚡ Real-time Prediction
-
-**Tech Stack**
+**🛠 Tech Stack**
 
 `Python` `Scikit-learn` `XGBoost` `Pandas` `Streamlit`
 
@@ -79,18 +75,11 @@ AI-powered Insurance Fraud Detection System
 
 ### 🎥 CCTV Activity Recognition
 
-CNN-based Human Activity Recognition
+Deep Learning-based human activity recognition system that classifies CCTV footage into Walking, Running, Sitting, and Fighting using TensorFlow, CNN, and OpenCV.
 
-**Highlights**
+**🛠 Tech Stack**
 
-- 🚶 Walking Detection
-- 🏃 Running Detection
-- 👊 Fighting Detection
-- 🪑 Sitting Detection
-
-**Tech Stack**
-
-`TensorFlow` `OpenCV` `CNN` `Python`
+`TensorFlow` `CNN` `OpenCV` `Python`
 
 </td>
 
@@ -104,18 +93,11 @@ CNN-based Human Activity Recognition
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=Remote-Controlled-Surveillance-Vehicle&theme=tokyonight&hide_border=true"/>
 </a>
 
-### 🤖 Remote Controlled Surveillance Vehicle
+### 🤖 Remote-Controlled Surveillance Vehicle
 
-IoT & Computer Vision based Surveillance Robot
+IoT-enabled surveillance robot built using Python, OpenCV, and Arduino for live monitoring, remote navigation, obstacle detection, and intelligent surveillance.
 
-**Highlights**
-
-- 📹 Live Camera Feed
-- 🎮 Remote Navigation
-- 🤖 Obstacle Monitoring
-- 🔍 Real-time Surveillance
-
-**Tech Stack**
+**🛠 Tech Stack**
 
 `Python` `OpenCV` `Arduino` `IoT`
 
@@ -129,18 +111,47 @@ IoT & Computer Vision based Surveillance Robot
 
 ### 🚕 NYC Taxi Fare Prediction
 
-Big Data Analytics & Fare Prediction
+Big Data analytics project using PySpark and Machine Learning to process millions of taxi trips, engineer features, and accurately predict taxi fares at scale.
 
-**Highlights**
-
-- 📦 PySpark Processing
-- 📈 Feature Engineering
-- 🚖 Fare Prediction
-- 📊 Large-scale Dataset Analysis
-
-**Tech Stack**
+**🛠 Tech Stack**
 
 `PySpark` `Python` `Pandas` `Machine Learning`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/Breast-Cancer-Detection-">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=Breast-Cancer-Detection-&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🎗️ Breast Cancer Detection
+
+Machine Learning web application for predicting breast cancer using the Wisconsin Diagnostic Dataset. Built with Scikit-learn and Flask for fast, accurate, and user-friendly diagnosis.
+
+**🛠 Tech Stack**
+
+`Python` `Scikit-learn` `Flask` `Pandas`
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/sahilsharma20/movie-recommendation-system">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sahilsharma20&repo=movie-recommendation-system&theme=tokyonight&hide_border=true"/>
+</a>
+
+### 🎬 Movie Recommendation System
+
+Content-based recommendation engine that suggests similar movies using NLP and cosine similarity. Built with Python, Scikit-learn, Pandas, and Streamlit.
+
+**🛠 Tech Stack**
+
+`Python` `NLP` `Scikit-learn` `Streamlit`
 
 </td>
 
