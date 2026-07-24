@@ -26,20 +26,22 @@ sahil@github:~$
 📍 Location    : India
 ```
 
-
-# Hi 👋
-
-I'm Sahil Sharma.
-
 ## About Me
 
 - 🎓 B.Tech CSE graduated from AICE, Jaipur
 - 🤖 Passionate about AI, ML, Deep Learning & Generative AI
-- 💡 Building practical AI applications
+- 💡 Building end-to-end AI & Machine Learning applications
 - 🌱 Currently learning LLMs, RAG & LangChain
 - 📫 Open to AI/ML internship and fresher opportunities
 
-## Projects
 
-- ClaimGuard
-- CCTV Activity Recognition
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,mysql,sqlite,linux,html,css,streamlit&perline=9" />
+</p>
+
+  
+## 🚀 Featured Projects
+
+- 🚀 **ClaimGuard** – AI-powered Insurance Fraud Detection System
+- 🤖 **CCTV Activity Recognition** – Deep Learning-based Human Activity Recognition
+- 📝 **Next Word Prediction** – LSTM-based Language Model
